@@ -18,9 +18,10 @@
 
 “Correct, fast progress. Complete overview of my project process through regular meetings. After the initial design versions I’m happy to do user testing with your customers to ensure the best possible solutions for their needs.”
 
-###Languages and Tools:
+### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=android,angularjs,bootstrap,c,codeigniter,cplusplus,csharp,django,dotnet,express,figma,firebase,git,go,graphql,html5,java,javascript,mongodb,mssql,mysql,nestjs,nextjs,nodejs,opencv,photoshop,php,postgresql,postman,python,react,reactnative,redux,sass,sqlite,tailwind,tensorflow,typescript,unity,vuejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=android,angularjs,bootstrap,c,codeigniter,cplusplus,csharp,django,dotnet,express,figma,firebase,git,go,graphql,html5,java,javascript,mongodb,mssql,
+,mysql,nestjs,nextjs,nodejs,opencv,photoshop,php,postgresql,postman,python,react,reactnative,redux,sass,sqlite,tailwind,tensorflow,typescript,unity,vuejs,figma&theme=light)](https://skillicons.dev)
 
 <!--
 Here are some ideas to get you started:
