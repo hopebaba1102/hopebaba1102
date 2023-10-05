@@ -25,7 +25,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hopebaba1102&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashraf-kabir&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=hopebaba1102&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 <!--
 Here are some ideas to get you started:
